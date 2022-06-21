@@ -1,5 +1,5 @@
 ---
-title: 'Two Forms of Pre-rendering'
+title: 'ケース２テスト'
 date: '2020-01-01'
 ---
 
